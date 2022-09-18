@@ -1,0 +1,104 @@
+body {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  background:url("card-table.jpg") no-repeat center center fixed ;
+ background-size: cover;
+ 
+
+}
+
+#para {
+  margin:100px;
+  padding: 50px;
+  font-size: 22px;
+  color: black;
+  background: cornsilk;
+  border: 1px solid burlywood;
+  border-radius: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 40%;
+  margin-left:auto;
+  margin-right: auto;
+  
+
+}
+
+h2 {
+  color:bisque;
+}
+
+#results {
+  color:bisque;
+  font-size: 30px;
+}
+
+#dealerCards img{
+    height: 175px;
+    width: 125px;
+    margin: 1px; 
+
+}
+
+#yourCards img {
+  height: 175px;
+  width: 125px;
+  margin: 1px; 
+}
+
+
+#higher {
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  border: none;
+  border-radius: 20px;
+ 
+}
+
+#lower {
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+ border: none;
+ border-radius: 20px;
+  
+}
+
+#ace{
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+ border: none;
+ border-radius: 20px;
+   
+}
+
+#higher:hover{
+  background-color:mediumturquoise;
+  cursor: pointer;
+}
+
+#lower:hover{
+  background-color:mediumturquoise;
+  cursor: pointer;
+}
+
+#ace:hover{
+  background-color:red;
+  cursor: pointer;
+}
+
+#retrybtn{
+  border-radius: 12px;
+  align-items: center;
+  display:block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top: 10px;
+  display: none;
+}
+
+#retrybtn:hover{
+  background:green;
+  cursor: pointer;
+}
