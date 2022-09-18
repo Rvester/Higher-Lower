@@ -68,7 +68,7 @@ function higher(){
   let yourCard = document.querySelector("#yourCards");
   deck = deck.filter(card => card != giveCard);
   let img = document.createElement('img');
-  img.src = `/cards/${giveCard}.png`;
+  img.src = `./cards/${giveCard}.png`;
   yourCard.appendChild(img);
   //update the player score
   let cardLet = giveCard.split('-')[0];
@@ -144,7 +144,7 @@ function lower(){
   let yourCard = document.querySelector("#yourCards");
   deck = deck.filter(card => card != giveCard);
   let img = document.createElement('img');
-  img.src = `/cards/${giveCard}.png`;
+  img.src = `./cards/${giveCard}.png`;
   yourCard.appendChild(img);
   //update the player score
   let cardLet = giveCard.split('-')[0];
@@ -220,7 +220,7 @@ function ace(){
   let yourCard = document.querySelector("#yourCards");
   deck = deck.filter(card => card != giveCard);
   let img = document.createElement('img');
-  img.src = `/cards/${giveCard}.png`;
+  img.src = `./cards/${giveCard}.png`;
   yourCard.appendChild(img);
   //update the player score
   let cardLet = giveCard.split('-')[0];
