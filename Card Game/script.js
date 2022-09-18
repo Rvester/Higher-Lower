@@ -54,7 +54,7 @@ function dealerGetCard(){
    let topCard = deck[0];
    deck = deck.filter(card => card != topCard)
    let img = document.createElement('img')
-   img.src = `/cards/${topCard}.png`;
+   img.src = `./cards/${topCard}.png`;
    yourCard.appendChild(img);
 
    
