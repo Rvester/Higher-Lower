@@ -2,7 +2,6 @@
 
 
 
-# Higher_or_Lower
 
 
 
@@ -14,3 +13,16 @@
  
  
  ![image](https://user-images.githubusercontent.com/106111818/190929214-55b8b8c5-4690-4811-b86e-54eb5547b5e2.png)
+
+
+#Tech Used
+HTML
+CSS
+JS
+
+
+
+#Things to Add
+Audio 
+Win and Lose Screens
+a Menu before you start
