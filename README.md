@@ -31,3 +31,7 @@
 * Audio 
 * Win and Lose Screens
 * a Menu before you start
+
+
+# Hardest Part
+Repition of the functions
