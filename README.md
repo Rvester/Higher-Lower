@@ -23,7 +23,7 @@ https://rvester.github.io/Higher-Lower/
 * HTML
 * CSS
 * JS
-
+# https://www.youtube.com/watch?v=bMYCWccL-3U&t=1596s/used for reference for the card pictures and taught me the window.onload function
 
 # Things to Add
 
