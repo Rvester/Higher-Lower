@@ -19,15 +19,15 @@
 
 
 
-*HTML
-*CSS
-*JS
+* HTML
+* CSS
+* JS
 
 
 # Things to Add
 
 
 
-*Audio 
-*Win and Lose Screens
-*a Menu before you start
+* Audio 
+* Win and Lose Screens
+* a Menu before you start
