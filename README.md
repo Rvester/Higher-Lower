@@ -35,3 +35,4 @@
 
 # Hardest Part
 Repition of the functions
+Trying to give the Letter cards Value
