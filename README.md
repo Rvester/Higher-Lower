@@ -15,7 +15,7 @@
  ![image](https://user-images.githubusercontent.com/106111818/190929214-55b8b8c5-4690-4811-b86e-54eb5547b5e2.png)
 
 
-#Tech Used
+# Tech Used
 
 
 
@@ -25,7 +25,7 @@ JS
 
 
 
-#Things to Add
+# Things to Add
 
 
 
