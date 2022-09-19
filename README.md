@@ -16,6 +16,9 @@
 
 
 #Tech Used
+
+
+
 HTML
 CSS
 JS
@@ -23,6 +26,9 @@ JS
 
 
 #Things to Add
+
+
+
 Audio 
 Win and Lose Screens
 a Menu before you start
