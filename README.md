@@ -1,8 +1,8 @@
 # Higher_or_Lower
 
+https://rvester.github.io/Higher-Lower/
 
 
-# Higher_or_Lower
 
 
 
@@ -14,3 +14,26 @@
  
  
  ![image](https://user-images.githubusercontent.com/106111818/190929214-55b8b8c5-4690-4811-b86e-54eb5547b5e2.png)
+
+
+# Tech Used
+
+
+
+* HTML
+* CSS
+* JS
+* https://www.youtube.com/watch?v=bMYCWccL-3U&t=1596s /used for reference for the card pictures and taught me the window.onload function
+
+# Things to Add
+
+
+
+* Audio 
+* Win and Lose Screens
+* a Menu before you start
+
+
+# Hardest Part
+Repition of the functions
+Trying to give the Letter cards Value
