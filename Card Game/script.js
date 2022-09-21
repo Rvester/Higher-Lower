@@ -2,7 +2,7 @@ let yourSum = 30;
 let dealerSum = 50;
 
 let cardValue = ""
-let deck;
+
 
 
 
